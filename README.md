@@ -4,6 +4,7 @@
 # Сортировки
 ## [Быстрая сортировка](https://github.com/qu4dro/grokking-algorithms/blob/main/src/main/kotlin/ru/orlovvv/QuickSort.kt)
 ## [Сортировка слиянием](https://github.com/qu4dro/grokking-algorithms/blob/main/src/main/kotlin/ru/orlovvv/MergeSort.kt)
+## [Пузырьковая сортировка](https://github.com/qu4dro/grokking-algorithms/blob/main/src/main/kotlin/ru/orlovvv/BubbleSort.kt)
 # Графы
 ## [Поиск в ширину](https://github.com/qu4dro/grokking-algorithms/blob/main/src/main/kotlin/ru/orlovvv/BreadthFirstSearch.kt)
 ## [Алгоритм Дейкстры]() TODO!!
